@@ -1,8 +1,9 @@
 Hi there 👋, I am Nicole! <br>
-I am a front-end web developer in the making 👶	, and I'm currently working with HTML, CSS, JavaScript and React.
+I am a web developer in the making 👶	, and I'm currently working with HTML, CSS, JavaScript and React.
 
 🌐	I'm a Swiss girl based in Belfast, Northern Ireland <br>
 🧠 I just graduated from Bath Spa University's Web Development Bootcamp <br>
+📑 I'm currently following the University of Helsinki's Full Stack Web Development course <br>
 🏊	I like swimming and hiking with my dog 🐶 <br>
 👧 I speak Italian, English, French and German <br>
 📫 How to reach me: n.formentipedroia@outlook.com <br>
